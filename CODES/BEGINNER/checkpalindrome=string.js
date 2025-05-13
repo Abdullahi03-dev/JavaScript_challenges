@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
 
-
-
-    <script>
         //PALINDROME CHECKER
         ///IF A WORD PR NUMBER THAT READS THE SAME BACKWARD AS FORWARD.....
         ///E.G
@@ -26,6 +14,4 @@
           return 'NOT A PALINDROME'
         }
         console.log(checkPalindrome('madam'))
-    </script>
-</body>
-</html>
+  
